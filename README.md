@@ -1,6 +1,6 @@
 # bancoPrueba
-Aplicación web PHP - PDO - MySQL - Twitter Bootstrap
 Web app PHP - PDO - MySQL - Twitter Bootstrap
+Aplicación web PHP - PDO - MySQL - Twitter Bootstrap
 
 User: usuario
 Password: 1234
